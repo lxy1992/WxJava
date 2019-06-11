@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
  */
 @Data
 @EqualsAndHashCode (callSuper = true)
-public class WxFastMaSetNickameResult extends WxOpenResult {
+public class WxFastMaSetNicknameResult extends WxOpenResult {
   private static final long serialVersionUID = 8022192589710319473L;
 
   /**
